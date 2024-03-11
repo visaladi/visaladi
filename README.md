@@ -39,3 +39,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=visaladi&" alt="visaladi" /></p>
 
+# 📊 GitHub Stats:
+
+|     ![](https://github-readme-stats.vercel.app/api?username=visaladi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)        |       ![](https://github-readme-streak-stats.herokuapp.com/?user=visaladi&theme=dark&hide_border=false)                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visaladi&theme=dark) | ![](https://github-contributor-stats.vercel.app/api?username=visaladi&limit=5&theme=dark&combine_all_yearly_contributions=true) |
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=visaladi&radius=16&theme=github-compact&area=true&order=5" height="250" alt="activity-graph graph" />
