@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visaladi" alt="visaladi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@adikari_visal" target="blank"><img src="https://img.shields.io/twitter/follow/@adikari_visal?logo=twitter&style=for-the-badge" alt="@adikari_visal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@adikari_visal" target="blank"><img src="https://img.shields.io/twitter/follow/@adikari_visal?logo=twitter&style=for-the-badge" alt="adikari_visal" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Kotlin, JavaScript, spring boot, MERN, Java, Machine learning, Deep Learning, Neural Networks, AI, Electronics, Robotics**
 
