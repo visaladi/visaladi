@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@adikari_visal" target="blank"><img src="https://img.shields.io/twitter/follow/@adikari_visal?logo=twitter&style=for-the-badge" alt="adikari_visal" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Kotlin, JavaScript, spring boot, MERN, Java, Machine learning, Deep Learning, Neural Networks, AI, Electronics, Robotics**
+- 🌱 I’m currently learning **Flutter, Kotlin, JavaScript, spring boot, MERN, Java, Machine learning, Deep Learning, Neural Networks, AI, Electronics, Robotics,Database administration **
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/visal-adikari-47930a234](https://www.linkedin.com/in/visal-adikari-47930a234)
 
