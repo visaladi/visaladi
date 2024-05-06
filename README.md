@@ -2,7 +2,7 @@
 <h3 align="center">"Passionate Multidisciplinary Professional: CEO at LUV PLC | Financial Advisor | Architect | Frontend & Backend Developer | UI/UX Designer | Electronic Enthusiast | App Developer"</h3>
 <img align="center" alt="Coding" width="1000" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRlNGh5bHRmNjJ0amFnejZrcHQ5bzc3cTl2M3R4OWxrYTlrOXNmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visaladi&label=Profile%20views&color=0e75b6&style=flat" alt="visaladi" /> </p>
-[![Muhammadsher's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=visaladi&country_code=Sri Lanka)](https://github.com/visaladi/github-readme-ranking)
+[![visaladi's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=visaladi&country_code=Sri Lanka)](https://github.com/visaladi/visaladi)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visaladi" alt="visaladi" /></a> </p>
 
