@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visaladi&label=Profile%20views&color=0e75b6&style=flat" alt="visaladi" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visaladi" alt="visaladi" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=visaladi&theme=oldie" alt="visaladi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@adikari_visal" target="blank"><img src="https://img.shields.io/twitter/follow/adikari_visal?logo=twitter&style=for-the-badge" alt="adikari_visal" /></a> </p>
 
