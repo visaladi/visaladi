@@ -83,17 +83,40 @@ If you are interested in papers, preprints, or collaboration, please reach out b
 
 ## 📊 GitHub Profile Analytics
 
+### 🔥 Contribution & Activity Power
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=visaladi&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=visaladi&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+### 📈 Total Performance Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visaladi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=visaladi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
+---
+
+### 🧠 Languages Power
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visaladi&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visaladi&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+### 🚀 Full GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=visaladi&theme=tokyo-night" />
+</p>
+
+---
+
+# 🏆 GitHub Metrics (Auto Updating)
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=visaladi&theme=tokyo-night" alt="Activity graph" />
