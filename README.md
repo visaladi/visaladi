@@ -53,7 +53,7 @@ To build advanced engineering solutions that:
 ---
 
 ## 🔭 Featured Projects
-> Replace the links with your actual repository URLs or pin projects on your GitHub profile.
+
 
 - DeepVision — High-performance computer vision and detection pipelines.  
   https://github.com/visaladi/DEEPVISION
