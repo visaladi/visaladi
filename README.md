@@ -83,30 +83,32 @@ If you are interested in papers, preprints, or collaboration, please reach out b
 
 ## 📊 GitHub Profile Analytics
 
-### 🔥 Contribution & Activity Power
+## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=visaladi&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=visaladi&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak for visaladi"
+  />
 </p>
 
 ---
 
-### 📈 Total Performance Stats
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visaladi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=visaladi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="GitHub Stats for visaladi"
+  />
 </p>
 
 ---
 
-### 🧠 Languages Power
+## 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visaladi&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🚀 Full GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=visaladi&theme=tokyo-night" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=visaladi&layout=compact&theme=tokyonight"
+    alt="Top Languages for visaladi"
+  />
 </p>
 
 ---
