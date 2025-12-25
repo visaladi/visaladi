@@ -1,10 +1,10 @@
 
-<h3 align="center">"Passionate Multidisciplinary Professional: CEO at LUV PLC | Architect | Frontend & Backend Developer | UI/UX Designer | Electronic Enthusiast | App Developer"</h3>
+<h3 align="center">"Passionate Multidisciplinary Professional:Software Architect | Frontend & Backend Developer | AI Engineer | ML Engineer | Electronic Enthusiast | App Developer"</h3>
 <img align="center" alt="Coding" width="1000" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRlNGh5bHRmNjJ0amFnejZrcHQ5bzc3cTl2M3R4OWxrYTlrOXNmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visaladi&label=Profile%20views&color=0e75b6&style=flat" alt="visaladi" /> </p>
 
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=visaladi&theme=oldie" alt="visaladi" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=visaladi alt="visaladi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@adikari_visal" target="blank"><img src="https://img.shields.io/twitter/follow/adikari_visal?logo=twitter&style=for-the-badge" alt="adikari_visal" /></a> </p>
 
