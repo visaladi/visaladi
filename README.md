@@ -1,9 +1,7 @@
 
-<h3 align="center">"Passionate Multidisciplinary Professional:Software Architect | Frontend & Backend Developer | AI Engineer | ML Engineer | Electronic Enthusiast | App Developer"</h3>
-<img align="center" alt="Coding" width="1000" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRlNGh5bHRmNjJ0amFnejZrcHQ5bzc3cTl2M3R4OWxrYTlrOXNmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"> 
 <h1> 🚀 Hi, I'm Visal Sandeep Adikari </h1>
 
-**Engineering Innovator | AI & Computer Vision Researcher | Blockchain Developer | Software Architect | Entrepreneur**
+**Engineering Innovator | AI & Computer Vision Researcher | Blockchain Developer | Software Architect | Frontend & Backend Developer  | Electronic Enthusiast | App Developer| Entrepreneur**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=visaladi&label=Profile+Views&color=1c8adb&style=for-the-badge" alt="Profile Views" />
