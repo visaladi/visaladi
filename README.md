@@ -147,12 +147,7 @@ Resume / CV available upon request — email me or add a public link here.
 
 ---
 
-Thank you for visiting — always learning. always building. always evolving. 🌟
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=visaladi&show_icons=true&locale=en&layout=compact" alt="visaladi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=visaladi&show_icons=true&locale=en" alt="visaladi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=visaladi&" alt="visaladi" /></p>
 
 # 📊 GitHub Stats:
 
